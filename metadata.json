@@ -1,0 +1,7 @@
+{
+  "name": "Aboutly - Personal Professional Profiles",
+  "description": "Create a beautiful professional profile that brings your experience, work, skills and contact details together in one simple link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
